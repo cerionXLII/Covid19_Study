@@ -1,6 +1,4 @@
 # Covid19_Study
-A study of the Covid 19 data
-
 This is a study of Covid 19 cases in the Nordic countries.
 
 The study uses weekly based data in order to minimize the impact of how the different countries report the cases. Some contries only submit statistics at fixed intervals during the weeks. If we aggregate the cases on a weekly basis it is more likely to remove noise due to country specific reporting policies.
