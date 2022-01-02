@@ -12,7 +12,7 @@ The notebook uses the following libraries:
 
 
 # Data Source
-Covid-19 Data is collected from European Centre for Disease Prevention and Control
+Covid-19 data is collected from European Centre for Disease Prevention and Control.
 
 Link: https://www.ecdc.europa.eu/en/covid-19/data
 
@@ -29,15 +29,15 @@ Finland and Norway are similar. Iceland has had a relative low number of cases t
 
 Sweden and Denmark has shapes that are more unique, which probably depends on the different political measures taken during this time.
 
-## Is there any particular country that has a higher occurrance of Covid-19 cases per week?
+## Is there any particular country that has a higher occurrence of Covid-19 cases per week?
 
 If we view the plot we can clearly see that Sweden has a much higher number of Covid-19 cases during the period 2020-41 to about 2021-20. After that period Sweden has instead a lower number of cases per week then the other Nordic countries.
 
-Denmark has had a very high number of Covid-19 cases during the end of 2020 and again a very high peek at the end of 2021. No other contry comes as high as Denmark does during the end of 2021.
+Denmark has had a very high number of Covid-19 cases during the end of 2020 and again a very high peek at the end of 2021. No other country comes as high as Denmark does during the end of 2021.
 
 ## What is the correlation between Covid-19 cases by country?
 
 When we look at the correlation heatmap we can see that most of the Nordic countries are highly correlated. The correlation coefficient is above about 0.7 for most country pairs.
 
-One particular difference is however Sweden, that has a low correlation with the other Nordic contries. Even Iceland has a quite high correlation with the other Nordic countries, even though it is an isolated island.
+One particular difference is however Sweden, that has a low correlation with the other Nordic countries. Even Iceland has a quite high correlation with the other Nordic countries, even though it is an isolated island.
 
